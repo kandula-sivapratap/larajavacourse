@@ -1,0 +1,10 @@
+3.define an integer array with 10 blocks .store 25 in the first position and store 45 in the 4th position and display those elements.
+5. define  an integer array with 0 blocks . store 200 in the last location and store 34 in the last but one location and display both the elements 
+6. define an integer arry with 11 locations . store 37 in the middle location and display the same 
+7. create an integer array with 14 locations . store 41 in the mid position .store 76 mid 3 position. store 65 in the mid+2 position . display all the elements . also find the sum of all those elements and display the result.
+
+8. initialsize a string array which contains 5 city names . dispaly only 3rd city by adding prefix welcome to
+
+9. create a bite arry with 6 blocks . store any number between -128 to +127 in the mid+1 position . assign the element by creating an integer array with 7 blocks and store the element in the mid-1 position in an integer array. display both the elements 
+
+10. create an integer array with 4 blocks . store any number between 70to110 in the last position by creating a character array with 3 blocks and store the element in first position. display the both elements

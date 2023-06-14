@@ -1,0 +1,118 @@
+1. find out total number of elements in an array
+2. Read first 3 elements from a given array ?
+      ( assume 10 elements are avilable in the array )
+3.Read last 3 elements from a given array ?
+      ( assume 10 elements are avilable in the array )
+4.Read middle 3 elements from a given array ?
+      ( assume 10 elements are avilable in the array )
+ 5.Read all elements from a given array ?
+      ( assume 10 elements are avilable in the array )
+ 6.Read all elements from a given array except first and last ?
+      ( assume 10 elements are avilable in the array )
+ 7.Read first half from a given array ?
+      ( assume 10 elements are avilable in the array )
+ 8.Read second half from a given array ?
+      ( assume 10 elements are avilable in the array )
+ 9.Read all elements from a given array in the reverse order ?
+      ( assume 10 elements are avilable in the array )
+10.Read all elements from a given array in the reverse order except first and last ?
+      ( assume 10 elements are avilable in the array )
+11.Read first half elements from a given array in the reverse order  ?
+      ( assume 10 elements are avilable in the array )
+12.Read the last half elements from a given array in the reverse order  ?
+      ( assume 10 elements are avilable in the array )
+13.Read alternative elements from a given array ?
+      ( assume 10 elements are avilable in the array )
+14.Read alternative elements from a given array in the reverse order  ?
+      ( assume 10 elements are avilable in the array )
+15) Repeat all the above programmes by considering total number of elements are 11
+16) find out sum of all the elements of a given array ?
+17) find out average of all the elements of a given array ?
+18) find out sum of first half of the elements of a given array ?
+19) find out avg of first half of the elements of a given array ?
+20) find out sum of Second half of the elements of a given array ?
+21) find out avg of second half of the elements of a given array ?
+22) find out min value of the elements of a given array ?
+23) find out max value of the elements of a given array ?
+24) find out min value of the elements in the first half of a given int array ?
+25) find out max value of the elements in the first half of a given  int array ?
+26) find out min value of the elements in the second half of a given int array ?
+27) find out max value of the elements in the second half of a given  int array ?
+28) find out min value from all even numbers in a given array ?
+29) find out max value from all even numbers in a given array ?
+30) find out min value from all odd numbers in a given array ?
+31) find out min value from all odd numbers in a given array ?
+32) find out 2 max fron given int array?
+33) find out 2 min fron given int array?
+34) find out 3 max fron given int array?
+35) find out 3 min fron given int array?
+36)FIND out the countinus elements which are in the ascending/desending order?
+37)print the elements which are next to the even elements ?
+38)print the elements which are prev to the even elements ?
+39)print the elements which are in the middle of two  even elements ?
+40)print the odd elements which are in the middle of two even  elements ?
+41)print the even elements which are in the middle of two odd  elements ?
+42)print all two consecutive even elements ?
+43)print all two consecutive odd elements ?
+44)print 3 elements which are first 2's sum is 3rd one ?
+45)find out all the two elements whos sum is zero?----------important
+46)find out all the three elements whos sum is zero?----------important
+47)find out the nearest number for every number ?
+48)increment every values to 5 unites ?
+49)decrement every values to 10 unites ?
+50)increment first half values with 5 units and decrement 2nd half values with 10 units?
+51)multiply every even values with 20 and add 20  unites to every odd values?
+52)swap first element with last element?
+    example: initial {10,5,13,16,4,7,20,18}
+             final  {18,5,13,16,4,7,20,10}
+
+53)swap every element with next element?
+     example: initial {10,5,13,16,4,7,20,18}
+               final  {5,10,16,13,7,4,18,20}
+54) reverse array element---------------------------------important
+         example: initial {10,5,13,16,4,7,20,18}
+                   final  {18,20,7,4,16,13,5,10}
+
+55)reverse array element with in the index numbers ---------------------------------important
+         example: initial {10,5,13,16,4,7,20,18}
+                   final  {0,1,2,3,4,5,6,7}
+     
+56)replace  array element with the twice of index numbers ---------------------------------important
+         example: initial {10,5,13,16,4,7,20,18}
+                   final  {0,2,8,6,8,10,12,14}
+
+57)left shift by one 
+         example: initial {10,5,13,16,4,7,20,18}
+                   final  {5,13,16,4,7,20,10,18}
+
+58)left shift by two 
+         example: Intial[10, 5, 13, 16, 4, 7, 20, 18]
+                  final [13, 16, 4, 7, 20, 18, 20, 18]
+
+59)left rotate by one
+         Intial[10, 5, 13, 16, 4, 7, 20, 18]
+         final [5, 13, 16, 4, 7, 20, 18, 10]
+
+60)left rotate by two
+         example: Intial[10, 5, 13, 16, 4, 7, 20, 18]
+           final [13, 16, 4, 7, 20, 18, 10, 18]
+61)left shift by one 
+         example: initial {10,5,13,16,4,7,20,18}
+                   final  {5,13,16,4,7,20,10,18}
+
+62)left shift by two 
+         example: initial {10,5,13,16,4,7,20,18}
+                   final  {5,13,16,4,7,20,10,18}
+
+63)right  rotate by one
+         Intial[10, 5, 13, 16, 4, 7, 20, 18]
+          final[18, 10, 5, 13, 16, 4, 7, 20]
+64)right  rotate by 2
+         Intial[10, 5, 13, 16, 4, 7, 20, 18]
+          final[18, 20, 10, 5, 13, 16, 4, 7]
+
+
+
+
+
+     

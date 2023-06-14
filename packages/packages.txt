@@ -1,0 +1,43 @@
+/////////////11_06_2023////////////////////
+
+# packages:-
+-----------------
+*why do we need package in java?
+- A package in java used to group related classes
+- By using packages we can avoid naming conflicts.
+- By using package we can achieve access protection.
+
+
+
+####
+D:\program\april-batch-lab-java\packages\app1\src>java -cp ../classes com.lara.students.StudentData
+com.lara.students.StudentData
+
+
+
+
+
+Employee
+=----------
+
+D:\program\april-batch-lab-java\packages\app1\src>javac -d ../classes com/lara/employees/EmployeeData.java
+
+D:\program\april-batch-lab-java\packages\app1\src>java -cp ../classes com.lara.employees.EmployeeData
+com.lara.employees.EmployeeData
+
+NestdePackage
+=============
+D:\program\april-batch-lab-java\packages\app1\src>javac -d ../classes pack1\com\src\src\src\NestedPackage.java
+
+D:\program\april-batch-lab-java\packages\app1\src>java -cp ../classes pack1.com.src.src.src.NestedPackage
+from pack1.com.src.src.src
+
+
+
+
+
+
+
+
+
+ 

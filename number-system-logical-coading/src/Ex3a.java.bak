@@ -1,0 +1,8 @@
+class Ex3a
+{
+	public static void main(String[] args) 
+	{
+		int num=4512;
+		System.out.println(num%100);
+	}
+}

@@ -1,0 +1,11 @@
+rollno	 -  nextInt
+name	 -  nextLine
+initials -  next().charAt(0);
+age	 -  nextInt
+course	 -  next
+skills	 -  nextLine
+fees	 -  nextDouble
+joboffer -  nextBoolean
+
+print all the details
+
